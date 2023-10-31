@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//bool in deliverable two
 
 typedef struct {
     int id;
